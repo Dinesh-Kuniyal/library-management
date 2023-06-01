@@ -1,0 +1,9 @@
+{
+  "data": [
+    {
+      "user_id": 1,
+      "user_name": "admin12345",
+      "password": "yourPassword"
+    }
+  ]
+}
